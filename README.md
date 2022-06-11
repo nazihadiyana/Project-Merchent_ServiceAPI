@@ -9,7 +9,7 @@ This repository contains the documentation for [Merchent_Service](https://github
 - [Resources](#3-resources)
   - [Merchants](#31-merchants)
   - [Products](#32-products)
-- [Architecture Diagram](#4-architecture diagram)
+- [Architecture Diagram](#4-architecture)
 - [Entity Relationship Diagram](#5-erd)
 
 ## 1. Description
