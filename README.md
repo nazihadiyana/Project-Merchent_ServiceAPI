@@ -18,7 +18,7 @@ Merchat_ServiceAPI is a project in the form Backend API Server Development. This
 
 ## 2. Authentication
 
-A JSON Web Token is a mechanism to verify the merchants (users) of some JSON datat's an encoded. In order to open or edit the product, the merchants (users) will need an access token. Access tokens grant limited access to user accounts.
+A JSON Web Token is a mechanism to verify the merchants (users) of some JSON data's an encoded. In order to open or edit the product, the merchants (users) will need an access token. Access tokens grant limited access to user accounts.
 
 ## 3. Resources
 
